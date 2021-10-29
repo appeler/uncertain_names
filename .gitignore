@@ -1,3 +1,5 @@
-/dataverse_files/*
+/dataverse_files/*.gz
+/dataverse_files/*.docx
+/dataverse_files/*Voter*
 /colab_notebooks/.ipynb_checkpoints/*
 .DS_Store
